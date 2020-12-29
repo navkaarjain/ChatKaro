@@ -10,7 +10,7 @@
     "nodemon": "^2.0.6"
   },
   "scripts": {
-    "nodemon": "nodemon index.js"
+    "start": "nodemon index.js"
   },
   "author": "Navkaar",
   "license": "ISC",
